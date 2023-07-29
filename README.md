@@ -33,6 +33,4 @@
 
 ## 📈 GitHub Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bondrogeen)](https://github.com/bondrogeen)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bondrogeen&layout=compact)](https://github.com/bondrogeen)
